@@ -1,0 +1,92 @@
+<resources>
+
+    <string name="app_name">pajak</string>
+
+    <string name="Tentang">Tentang</string>
+    
+    <string-array name="location_name">
+        <item>Kantor Pelayanan Pajak Pratama</item>
+        <item>Kantor Pelayanan Pajak Madya Denpasar</item>
+        <item>KPP Pratama Denpasar Timur</item>
+        <item>KPP Pratama Singaraja</item>
+        <item>KPP Pratama Badung Selatan</item>
+        <item>KPP Pratama Badung Utara</item>
+        <item>KPP Pratama Gianyar</item>
+        <item>KPP Pratama Tabanan</item>
+        <item>KP2KP Kerobokan</item>
+        <item>KP2KP Ubud Jl. Sahadewa</item>
+        <item>KP2KP Amlapura</item>
+        <item>KP2KP Negara</item>
+    </string-array>
+    <string-array name="location_phone">
+        <item>(0361)239985</item>
+        <item>(0361)262222</item>
+        <item>(0361)221304</item>
+        <item>(0362)21949</item>
+        <item>(0361)246775</item>
+        <item>(0361)7804483</item>
+        <item>(0361)943586</item>
+        <item>(0361)811205</item>
+        <item>(0361)705768</item>
+        <item>(0361)943175</item>
+        <item>(0361)21339</item>
+        <item>(0361)41121</item>
+    </string-array>
+    <string-array name="location_image">
+        <item>http://img.bisnis.com/posts/2014/04/27/222686/pajak-5.jpg</item>
+        <item>http://img.bisnis.com/posts/2014/04/27/222686/pajak-5.jpg</item>
+        <item>http://img.bisnis.com/posts/2014/04/27/222686/pajak-5.jpg</item>
+        <item>http://img.bisnis.com/posts/2014/04/27/222686/pajak-5.jpg</item>
+        <item>http://img.bisnis.com/posts/2014/04/27/222686/pajak-5.jpg</item>
+        <item>http://img.bisnis.com/posts/2014/04/27/222686/pajak-5.jpg</item>
+        <item>http://img.bisnis.com/posts/2014/04/27/222686/pajak-5.jpg</item>
+        <item>http://img.bisnis.com/posts/2014/04/27/222686/pajak-5.jpg</item>
+        <item>http://img.bisnis.com/posts/2014/04/27/222686/pajak-5.jpg</item>
+        <item>http://img.bisnis.com/posts/2014/04/27/222686/pajak-5.jpg</item>
+        <item>http://img.bisnis.com/posts/2014/04/27/222686/pajak-5.jpg</item>
+        <item>http://img.bisnis.com/posts/2014/04/27/222686/pajak-5.jpg</item>
+    </string-array>
+    <string-array name="location_latitude">
+        <item>-8.638648</item>
+        <item>-8.669799</item>
+        <item>-8.668061</item>
+        <item>-8.116064</item>
+        <item>-8.668308</item>
+		<item>-8.638695</item>        
+		<item>-8.547122</item>
+        <item>-8.542683</item>
+        <item>-8.799970</item>
+        <item>-8.652506</item>
+        <item>-8.439829</item>
+        <item>-8.355748</item>
+    </string-array>
+    <string-array name="location_longitude">
+        <item>115.225967</item>
+        <item>115.225967</item>
+        <item>115.228026</item>
+        <item>115.089262</item>
+        <item>115.227811</item>
+        <item>115.211159</item>
+        <item>115.312025</item>
+        <item>115.138850</item>
+        <item>115.160342</item>
+        <item>115.214713</item>
+        <item>115.614916</item>
+        <item>114.636558</item>
+    </string-array>
+	<string-array name="location_address">
+        <item>Jl. Wijaya Kusuma No.48 Denpasar Utara Kota Denpasar</item>
+        <item>Jl. Tantular Barat. No.9X Denpasar Timur. Kota Denpasar</item>
+        <item>Jl. Tantular No.1 Denpasar Timur. Kota Denpasar</item>
+        <item>Buleleng Buleleng Sub-District Buleleng Regency</item>
+        <item>Jl. Cok Agung Tresna No.8 Denpasar Timur. Kota Denpasar</item>
+        <item>Pura Dalem Manik Penataran Agung Lemintang</item>
+        <item>Jl. Dharma Giri No.100X Kec. Gianyar Gianyar</item>
+        <item>Jl. Gatot Subroto Kediri Tabanan</item>
+        <item>Jl. Raya Uluwatu No.7 Kuta Sel. Kabupaten Badung</item>
+        <item>Jl. Shadewa No.23 Denpasar Utara Kota Denpasar</item>
+        <item>Karangasem Sub-District Karangasem Regency</item>
+        <item>Jl. Merak Kec. Jembrana Jembrana</item>
+    </string-array>
+
+</resources>

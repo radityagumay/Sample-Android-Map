@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="15dp">
+    
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Harga Kendaraan anda"
+        style="@android:style/TextAppearance.Holo.Small"
+        android:layout_marginBottom="5dp"/>
+    <EditText 
+        android:id="@+id/et_harga_kendaraan_bermotor"
+        android:textSize="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kendaraan ke-"
+        style="@android:style/TextAppearance.Holo.Small"
+        android:layout_marginBottom="5dp"/>
+    <EditText 
+        android:id="@+id/et_kendaraan_ke"
+        android:textSize="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Keterlambatan (dalam bulan)"
+        style="@android:style/TextAppearance.Holo.Small"
+        android:layout_marginBottom="5dp"/>
+    <EditText 
+        android:id="@+id/et_keterlambatan"
+        android:textSize="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"/>
+   
+    <TextView
+        android:id="@+id/tv_perkiraan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@android:style/TextAppearance.Holo.Small"
+        android:layout_marginBottom="5dp"
+        android:visibility="gone"/>
+    
+    <Button 
+        android:id="@+id/btn_hitung"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hitung"/>
+   
+</LinearLayout>

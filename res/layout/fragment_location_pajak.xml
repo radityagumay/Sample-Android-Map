@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <!--
+        <fragment
+	    android:id="@+id/map" 
+	  	android:layout_width="match_parent"      
+	    android:layout_height="250dp"  
+	    class="com.google.android.gms.maps.SupportMapFragment"/>
+    -->
+
+    <com.google.android.gms.maps.MapView
+        android:id="@+id/map"
+        android:layout_width="match_parent"
+        android:layout_height="250dp" />
+
+    <ListView
+        android:id="@+id/lv_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/map"
+        android:divider="#b5b5b5"
+        android:dividerHeight="1dp" />
+
+</RelativeLayout>
